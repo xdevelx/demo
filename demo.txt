@@ -1,4 +1,4 @@
 master1
 master2
 master3
-local master 1
+remote master 4
